@@ -1,4 +1,4 @@
-# Distributed Volunteer Computing
+# DCSC
 
 Performing deep learning analysis on Video Stream using Volunteer Computing.
 Volunteer computing is a form of distributed computing where every client can join and leave at will and request processing. Each client will contribute a certain amount of its resources.
